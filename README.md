@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a **Full Stack Developer** passionate about cr
 
 ### Let's Connect
 - 📧 Feel free to reach out: [marcusperduee@gmail.com](mailto:marcusperduee@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/marcusperdue) _(if you have one)_
+- 💼 [LinkedIn](https://www.linkedin.com/in/marcusperdue)
 
 ### Projects & Contributions
 Check out some of my favorite repositories and contributions below! I’m always open to feedback and collaboration.
